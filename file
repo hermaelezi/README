@@ -1,0 +1,19 @@
+Software Development Skills: Mobile
+
+###PROJECT PROGRAM VERSION 1.0 12/04/2020
+
+###THE IDEA OF BOOKSHOP
+This is an Android application that calculates the cost of a kit for different compositions.
+When the application is open, the client can wait a while, only that it is fully loaded. 
+As soon as the Client Instructor is displayed, each list comes from existing authors. 
+The customer can choose The Hunchback of Notre-Dame, Harry Potter: The Complete Collection, 
+Where Rainbows End and The Spartans. Each type of book has its price, which is then reflected in the final price of the bouquet. 
+The client checks this by selecting and clicking the check boxes for the books. 
+Once the check boxes are successful, the customer can finally be the most important one by clicking on them. 
+The best view of the hill when the screen is displayed.
+
+#### USABILLITY NOTES
+-This program does not require installation.
+-Please note that you should check the compatibility of your environment before testing the application.
+-If you connect from a computer environment, it is recommended to test the application on a device running Android Studio.
+-Click on the fields of the desired combination of switches then click on the button to proceed to pricing. You will not see the calculated price, but only the result displayed on the screen.
